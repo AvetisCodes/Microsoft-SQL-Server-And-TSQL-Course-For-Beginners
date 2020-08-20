@@ -1,3 +1,5 @@
+USE AdventureWorks2017
+
 SELECT * FROM Person.Person
 
 SELECT * FROM HumanResources.Employee

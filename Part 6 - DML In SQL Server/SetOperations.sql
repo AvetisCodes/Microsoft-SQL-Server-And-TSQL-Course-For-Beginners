@@ -1,3 +1,5 @@
+
+
 CREATE TABLE Member (
 	MemberID INT IDENTITY(1,1) NOT NULL,
 	FirstName VARCHAR(30) NOT NULL,

@@ -147,5 +147,5 @@ HAVING
 	AVG(co.Amount) > (SELECT AVG(Amount) FROM CustomerOrder)
 
 -- Get rid of the tables
-DROP TABLE Customer
 DROP TABLE CustomerOrder
+DROP TABLE Customer

@@ -1,3 +1,5 @@
+USE AdventureWorks2017
+
 SELECT COUNT(*) FROM Person.Person -- 19972
 SELECT COUNT(*) FROM HumanResources.Employee -- 290
 
